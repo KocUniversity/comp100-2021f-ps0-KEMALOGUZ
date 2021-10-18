@@ -1,0 +1,17 @@
+[[package]]
+name = "id"
+version = "0.1.0"
+description = "xuexi"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "6eea8450b5caa41d7a7a39b1136040f60eebebfbd404dc6137f86ae6477aa1dc"
+
+[metadata.files]
+id = [
+    {file = "id-0.1.0.tar.gz", hash = "sha256:c723a4159a3ea3fce2e8f4764e1111a310010a595f9b776706edb61cd8a27374"},
+]
